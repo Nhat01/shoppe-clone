@@ -1,0 +1,38 @@
+.plist-title {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.plist-text {
+    font-size: 14px;
+    color: #6b6b6b;
+}
+
+.plist-content {
+    margin-top: 20px;
+}
+
+.plist-item-carousel {
+    display: block;
+    text-decoration: none;
+    color: unset;
+}
+
+.plist-img {
+    height:130px;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.plist-content-title {
+    font-size: 15px;
+}
+
+
+@media (min-width: 740px) { 
+    .plist-img {
+        height:210px;
+        width: 100%;
+        border-radius: 2px;
+    }
+}
